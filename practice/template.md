@@ -57,4 +57,3 @@ Refresh to see changes...
     // document.getElementById("date2").innerHTML = now.toLocaleDateString("en-US");
     // document.getElementById("date3").innerHTML = now.toLocaleDateString("en-US", {weekday: 'long'});
 </script>
-
